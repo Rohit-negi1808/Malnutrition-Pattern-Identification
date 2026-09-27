@@ -135,7 +135,7 @@ Dataset must contain nutritional columns like:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Mayank10021/malnutrition-dashboard.git
+git clone https://github.com/Rohit-negi1808/Malnutrition-Pattern-Identification.git
 cd malnutrition-dashboard
 ```
 
